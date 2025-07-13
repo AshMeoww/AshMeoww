@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashmeoww&label=Profile%20views&color=0e75b6&style=flat" alt="ashmeoww" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.datacamp.com/portfolio/ashleynicoledsantos](https://www.datacamp.com/portfolio/ashleynicoledsantos)
+- 👨‍💻 Some of my Data Science projects are available at [https://www.datacamp.com/portfolio/ashleynicoledsantos](https://www.datacamp.com/portfolio/ashleynicoledsantos)
 
 - 📫 How to reach me **ashleynicole.dsantos@gmail.com**
 
