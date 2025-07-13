@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **ashleynicole.dsantos@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B0movI5VgZH8LIFmcLta8csPEsNA4F75/view?usp=drivesdk](https://drive.google.com/file/d/1B0movI5VgZH8LIFmcLta8csPEsNA4F75/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
